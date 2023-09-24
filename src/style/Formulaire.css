@@ -1,0 +1,47 @@
+/* Style pour le formulaire */
+.form-container {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f8f9fa; /* Couleur de fond pâle */
+    border: 1px solid #dee2e6;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Style pour les étiquettes */
+  .form-label {
+    font-weight: bold;
+  }
+  
+  /* Style pour les boutons */
+  .form-button {
+    margin-top: 10px;
+  }
+  
+  /* Style pour le message de succès */
+  .success-message {
+    color: #28a745; /* Couleur verte pour le message de succès */
+  }
+  
+  /* Style pour les liens */
+  .form-link {
+    margin-top: 10px;
+    display: block;
+  }
+  
+  /* Centrer le contenu vertical et horizontal */
+  .center-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+  }
+  
+  /* Style pour le conteneur principal */
+  .container {
+    background-color: #f0f0f0; /* Couleur de fond pâle pour le conteneur principal */
+    padding: 20px;
+  }
+  
